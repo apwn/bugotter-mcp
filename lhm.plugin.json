@@ -1,0 +1,12 @@
+{
+  "identifier": "bugotter-mcp",
+  "name": "BugOtter",
+  "version": "0.4.0",
+  "description": "One calm list for every app you ship: up, used, paying, broken, and your coding agent can fix what breaks.",
+  "homepage": "https://bugotter.com/mcp",
+  "cloudEndpoint": "https://bugotter.com/api/mcp",
+  "author": "Thomas Kanze",
+  "authorUrl": "https://github.com/apwn",
+  "category": "developer",
+  "tags": ["monitoring", "uptime", "analytics", "errors", "revenue", "mcp"]
+}

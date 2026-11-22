@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "bugotter": {
+      "url": "https://bugotter.com/api/mcp"
+    }
+  }
+}
